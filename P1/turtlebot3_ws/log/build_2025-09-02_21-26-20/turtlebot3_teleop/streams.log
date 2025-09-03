@@ -1,0 +1,24 @@
+[1.923s] Invoking command in '/home/hayden/git/advRobotics/P1/turtlebot3_ws/build/turtlebot3_teleop': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/hayden/git/advRobotics/P1/turtlebot3_ws/build/turtlebot3_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hayden/git/advRobotics/P1/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hayden/git/advRobotics/P1/turtlebot3_ws/build/turtlebot3_teleop/build --no-deps symlink_data
+[2.185s] running develop
+[2.332s] running egg_info
+[2.332s] creating turtlebot3_teleop.egg-info
+[2.346s] writing turtlebot3_teleop.egg-info/PKG-INFO
+[2.347s] writing dependency_links to turtlebot3_teleop.egg-info/dependency_links.txt
+[2.347s] writing entry points to turtlebot3_teleop.egg-info/entry_points.txt
+[2.347s] writing requirements to turtlebot3_teleop.egg-info/requires.txt
+[2.347s] writing top-level names to turtlebot3_teleop.egg-info/top_level.txt
+[2.348s] writing manifest file 'turtlebot3_teleop.egg-info/SOURCES.txt'
+[2.377s] reading manifest file 'turtlebot3_teleop.egg-info/SOURCES.txt'
+[2.377s] writing manifest file 'turtlebot3_teleop.egg-info/SOURCES.txt'
+[2.394s] running build_ext
+[2.394s] Creating /home/hayden/git/advRobotics/P1/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.12/site-packages/turtlebot3-teleop.egg-link (link to .)
+[2.395s] Installing teleop_keyboard script to /home/hayden/git/advRobotics/P1/turtlebot3_ws/install/turtlebot3_teleop/lib/turtlebot3_teleop
+[2.395s] 
+[2.395s] Installed /home/hayden/git/advRobotics/P1/turtlebot3_ws/build/turtlebot3_teleop
+[2.395s] running symlink_data
+[2.396s] creating /home/hayden/git/advRobotics/P1/turtlebot3_ws/install/turtlebot3_teleop/share/ament_index
+[2.396s] creating /home/hayden/git/advRobotics/P1/turtlebot3_ws/install/turtlebot3_teleop/share/ament_index/resource_index
+[2.396s] creating /home/hayden/git/advRobotics/P1/turtlebot3_ws/install/turtlebot3_teleop/share/ament_index/resource_index/packages
+[2.396s] symbolically linking /home/hayden/git/advRobotics/P1/turtlebot3_ws/build/turtlebot3_teleop/resource/turtlebot3_teleop -> /home/hayden/git/advRobotics/P1/turtlebot3_ws/install/turtlebot3_teleop/share/ament_index/resource_index/packages
+[2.396s] symbolically linking /home/hayden/git/advRobotics/P1/turtlebot3_ws/build/turtlebot3_teleop/package.xml -> /home/hayden/git/advRobotics/P1/turtlebot3_ws/install/turtlebot3_teleop/share/turtlebot3_teleop
+[2.426s] Invoked command in '/home/hayden/git/advRobotics/P1/turtlebot3_ws/build/turtlebot3_teleop' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/hayden/git/advRobotics/P1/turtlebot3_ws/build/turtlebot3_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hayden/git/advRobotics/P1/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hayden/git/advRobotics/P1/turtlebot3_ws/build/turtlebot3_teleop/build --no-deps symlink_data

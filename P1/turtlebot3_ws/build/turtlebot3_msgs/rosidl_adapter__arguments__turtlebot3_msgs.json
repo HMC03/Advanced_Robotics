@@ -1,0 +1,12 @@
+{
+  "package_name": "turtlebot3_msgs",
+  "non_idl_tuples": [
+    "/home/hayden/git/advRobotics/P1/turtlebot3_ws/src/turtlebot3_msgs:msg/SensorState.msg",
+    "/home/hayden/git/advRobotics/P1/turtlebot3_ws/src/turtlebot3_msgs:msg/Sound.msg",
+    "/home/hayden/git/advRobotics/P1/turtlebot3_ws/src/turtlebot3_msgs:msg/VersionInfo.msg",
+    "/home/hayden/git/advRobotics/P1/turtlebot3_ws/src/turtlebot3_msgs:srv/Sound.srv",
+    "/home/hayden/git/advRobotics/P1/turtlebot3_ws/src/turtlebot3_msgs:srv/Dqn.srv",
+    "/home/hayden/git/advRobotics/P1/turtlebot3_ws/src/turtlebot3_msgs:srv/Goal.srv",
+    "/home/hayden/git/advRobotics/P1/turtlebot3_ws/src/turtlebot3_msgs:action/Patrol.action"
+  ]
+}
