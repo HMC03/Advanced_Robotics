@@ -1,1 +1,0 @@
-/home/hayden/git/advRobotics/P1/turtlebot3_ws/src/DynamixelSDK/ros/dynamixel_sdk_examples/src/read_write_node.py
