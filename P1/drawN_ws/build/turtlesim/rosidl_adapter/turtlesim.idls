@@ -1,0 +1,8 @@
+/home/hayden/git/advRobotics/P1/drawN_ws/build/turtlesim/rosidl_adapter/turtlesim:action/RotateAbsolute.idl
+/home/hayden/git/advRobotics/P1/drawN_ws/build/turtlesim/rosidl_adapter/turtlesim:msg/Color.idl
+/home/hayden/git/advRobotics/P1/drawN_ws/build/turtlesim/rosidl_adapter/turtlesim:msg/Pose.idl
+/home/hayden/git/advRobotics/P1/drawN_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/Kill.idl
+/home/hayden/git/advRobotics/P1/drawN_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/SetPen.idl
+/home/hayden/git/advRobotics/P1/drawN_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/Spawn.idl
+/home/hayden/git/advRobotics/P1/drawN_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/TeleportAbsolute.idl
+/home/hayden/git/advRobotics/P1/drawN_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/TeleportRelative.idl

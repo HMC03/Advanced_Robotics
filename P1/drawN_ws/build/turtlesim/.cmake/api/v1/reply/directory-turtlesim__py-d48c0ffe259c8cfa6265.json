@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "turtlesim__py",
+		"source" : "/home/hayden/git/advRobotics/P1/drawN_ws/build/turtlesim/turtlesim__py"
+	}
+}
