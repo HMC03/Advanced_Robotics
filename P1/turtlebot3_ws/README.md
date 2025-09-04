@@ -4,6 +4,12 @@
     colcon build
     ```
 
+2) source environment
+* 
+	```
+	source ./src/my_turtlebot3_setup.sh
+	```
+
 2) launch gazebo
 * 
     ```
