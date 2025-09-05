@@ -1,4 +1,14 @@
-1) To Build
+0) install dependencies
+* 
+    ```
+    sudo apt install ros-jazzy-cartographer -y
+    sudo apt install ros-jazzy-cartographer-ros -y
+    sudo apt install ros-jazzy-navigation2 -y
+    sudo apt install ros-jazzy-nav2-bringup -y
+    sudo apt install python3-colcon-common-extensions -y
+    ```
+
+1) build
 * 
     ```
     colcon build
