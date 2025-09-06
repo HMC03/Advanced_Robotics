@@ -21,7 +21,7 @@ This workspace includes the well-known ROS package `turtlesim` along with a cust
 ## How to Run
 1) Source Package
     ```
-    source ./src/setup.bash
+    source install/setup.bash
     ```
 
 2) Run Turtle Sim
@@ -31,4 +31,5 @@ This workspace includes the well-known ROS package `turtlesim` along with a cust
 
 3) Run Custom Package
     ```
+    ros2 run P1D2_hayden_cameron P1D2_hayden_cameron
     ```
