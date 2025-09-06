@@ -2,12 +2,12 @@
 This workspace includes the well-known ROS package `turtlesim` along with a custom package that enables the turtle to trace the letter **'N'** in honor of NC State.
 
 ## Dependencies
-* Ros2 Jazzy
-* python3
+* ROS2 Jazzy
+* Python3
 
 ## Setup
 
-1) Source Ros
+1) Source ROS2
     ```
     source /opt/ros/jazzy/setup.bash
     ```
