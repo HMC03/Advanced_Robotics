@@ -15,7 +15,7 @@ setup(
     zip_safe=True,
     maintainer='hayden',
     maintainer_email='haydenmcameron@proton.me',
-    description='TODO: Package description',
+    description='Enables Turtlesim to draw an N for \'NC State\'',
     license='Apache-2.0',
     tests_require=['pytest'],
     entry_points={
