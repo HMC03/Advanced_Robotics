@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
-package_name = 'P1D2_hayden_cameron'
+package_name = 'turtlesim_draw_n'
 
 setup(
     name=package_name,
@@ -20,7 +20,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'P1D2_hayden_cameron = P1D2_hayden_cameron.P1D2_hayden_cameron:main'
+            'turtlesim_draw_n = turtlesim_draw_n.turtlesim_draw_n:main'
         ],
     },
 )

@@ -36,10 +36,10 @@ You’ll need two terminal windows — one for the turtlesim_node and one for yo
     ```bash
     source /opt/ros/jazzy/setup.bash
     source install/setup.bash
-    ros2 run P1D2_hayden_cameron P1D2_hayden_cameron
+    ros2 run turtlesim_draw_n turtlesim_draw_n
     ```
 
 ## Result
 The Turtle will trace the letter N as shown below:
 
-![turtlesimN](src/P1D2_hayden_cameron/media/turtlesimN.png)
+![turtlesimN](src/turtlesim_draw_n/media/turtlesimN.png)

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>P1D2_hayden_cameron</name>
+  <name>turtlesim_draw_n</name>
   <version>0.0.0</version>
   <description>Enables Turtlesim to draw an N for 'NC State'</description>
   <maintainer email="haydenmcameron@proton.me">hayden</maintainer>
